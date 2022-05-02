@@ -61,32 +61,32 @@
 									<div class="col-6 col-12-medium">
 								        <section>
 									      <!-- <form method="post" action="/enrollment_form.php" autocomplete="on"> -->
-                                            <form method="post" action="#" autocomplete="on">
+                                            <form method="POST" action="admission_form.php" autocomplete="on">
 										      <div class="row gtr-50">
 											     <div class="col-6 col-12-small">
-												    <input name="name" placeholder="Student's Name" type="text" />
+												    <input name="name" placeholder="Student's Name" type="text" required />
 											     </div>
                                                   <div class="col-6 col-12-small">
-												    <input name="name" placeholder="Mother's Name" type="text" />
+												    <input name="mname" placeholder="Mother's Name" type="text"  required/>
 											     </div>
                                                   <div class="col-6 col-12-small">
-												    <input name="name" placeholder="Father's Name" type="text" />
+												    <input name="fname" placeholder="Father's Name" type="text" required/>
                                                   </div>
                                                   <div class="col-6 col-12-small">
-												    <input name="name" placeholder="Date Of Birth" type="text" />
+												    <input name="dob" placeholder="Date Of Birth" type="date" required/>
                                                   </div>
                                                   <div class="col-6 col-12-small">
-												    <input name="name" placeholder="Blood Group" type="text" />
+												    <input name="bg" placeholder="Blood Group" type="text" required/>
 											      </div>
                                                   <div class="col-6 col-12-small">
-												    <input name="email" placeholder="Email" type="text" />
+												    <input name="email" placeholder="Email" type="email" required/>
 											      </div>
 											      <div class="col-12">
-												    <textarea name="address" placeholder="Address"></textarea>
+												    <textarea name="address" placeholder="Address" required></textarea>
 											      </div>
                                                   
 											      <div class="col-12">
-												     <a href="#" class="form-button-submit button icon">Enroll</a>
+                                                    <input type="submit" class="btn btn-primary">
 											      </div>
 										      </div>
 									       </form>
