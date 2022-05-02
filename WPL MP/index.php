@@ -15,19 +15,19 @@
 					<div class="container">
 
 						<!-- Logo -->
-							<h1 id="logo"><a href="index.html">Silver Valley Institute</a></h1>
-							<p>Preparing the future</p>
+							<h1 id="logo"><a href="index.php">Silver Valley Institute</a></h1>
+							<p>Preparing the future.</p>
 
 						<!-- Nav -->
 							<nav id="nav">
 								<ul>
-									<li><a class="icon solid fa-home" href="index.html"><span>Home</span></a></li>
+									<li><a class="icon solid fa-home" href="index.php"><span>Home</span></a></li>
 									<li>
 										<a href="#" class="icon fa-chart-bar"><span>About us</span></a>
 										<ul>
-											<li><a href="#">History</a></li>
-											<li><a href="#">Academics</a></li>
-											<li><a href="#">Alumni</a></li>
+											<li><a href="History.html">History</a></li>
+											<li><a href="Academics.html">Academics</a></li>
+											<li><a href="Alumni.html">Alumni</a></li>
 											<li>
 												<a href="#">Our Staff</a>
 												<ul>
@@ -36,15 +36,14 @@
 													<li><a href="#">Secondary</a></li>
 												</ul>
 											</li>
-											<li><a href="#">Gallery</a></li>
+											<li><a href="Gallery">Gallery</a></li>
 										</ul>
 									</li>
 									<li><a class="icon solid fa-cog" href="enrollment.html"><span>Enrollment</span></a></li>
-									<li><a class="icon solid fa-retweet" href="right-sidebar.html"><span>Student Life</span></a></li>
+									<li><a class="icon solid fa-retweet" href="StudentLife.html"><span>Student Life</span></a></li>
 									<li><a class="icon solid fa-sitemap" href="#footer"><span>Contact us</span></a></li>
 								</ul>
 							</nav>
-
 					</div>
 				</section>
 
@@ -200,7 +199,8 @@
 											<ul class="divided">
 												<li>
 
-													<!-- Highlight -->
+<!--
+													 Highlight 
 														<article class="box highlight">
 															<header>
 																<h3><a href="#">Principal stuff</a></h3>
@@ -214,6 +214,7 @@
 																<li><a href="#" class="button icon solid fa-file">Learn More</a></li>
 															</ul>
 														</article>
+-->
 
 												</li>
 												<li>
