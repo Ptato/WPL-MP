@@ -15,8 +15,8 @@
 					<div class="container">
 
 						<!-- Logo -->
-							<h1 id="logo"><a href="index.php">Silver Valley Institute</a></h1>
-							<p>Preparing the future.</p>
+							<h1 id="logo">Silver Valley Institute</h1>
+							<p>Preparing the future</p>
 
 						<!-- Nav -->
 							<nav id="nav">
@@ -25,9 +25,9 @@
 									<li>
 										<a href="#" class="icon fa-chart-bar"><span>About us</span></a>
 										<ul>
-											<li><a href="History.html">History</a></li>
-											<li><a href="Academics.html">Academics</a></li>
-											<li><a href="Alumni.html">Alumni</a></li>
+											<li><a href="#">History</a></li>
+											<li><a href="#">Academics</a></li>
+											<li><a href="#">Alumni</a></li>
 											<li>
 												<a href="#">Our Staff</a>
 												<ul>
@@ -36,14 +36,15 @@
 													<li><a href="#">Secondary</a></li>
 												</ul>
 											</li>
-											<li><a href="Gallery">Gallery</a></li>
+											<li><a href="#">Gallery</a></li>
 										</ul>
 									</li>
 									<li><a class="icon solid fa-cog" href="enrollment.html"><span>Enrollment</span></a></li>
-									<li><a class="icon solid fa-retweet" href="StudentLife.html"><span>Student Life</span></a></li>
+									<li><a class="icon solid fa-retweet" href="right-sidebar.html"><span>Student Life</span></a></li>
 									<li><a class="icon solid fa-sitemap" href="#footer"><span>Contact us</span></a></li>
 								</ul>
 							</nav>
+
 					</div>
 				</section>
 
@@ -51,7 +52,7 @@
 				<section id="features">
 					<div class="container">
 						<header>
-							<h2>Gentlemen, behold! This is <strong>Strongly Typed</strong>!</h2>
+							<h2>Enter a new world of Education</h2>
 						</header>
 						<div class="row aln-center">
 							<div class="col-4 col-6-medium col-12-small">
@@ -135,29 +136,11 @@
 											<header>
 												<h2><a href="#">Accomplishments(Make carousel)</a></h2>
 											</header>
-											<a href="#" class="image featured"><img src="images/pic05.jpg" alt="" /></a>
-											<h3>You should probably check out her work</h3>
-											<!-- <p>Phasellus laoreet massa id justo mattis pharetra. Fusce suscipit
-											ligula vel quam viverra sit amet mollis tortor congue. Sed quis mauris
-											sit amet magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada
-											in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat
-											consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id
-											in, tristique at erat lorem ipsum dolor sit amet lorem ipsum sed consequat
-											magna tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros
-											consequat magna tempus lorem ipsum consequat Phasellus laoreet massa id
-											justo mattis pharetra. Fusce suscipit ligula vel quam viverra sit amet
-											mollis tortor congue. Sed quis mauris sit amet magna accumsan tristique.
-											Curabitur leo nibh, rutrum malesuada.</p>
-											<p>Erat lorem ipsum veroeros consequat magna tempus lorem ipsum consequat
-											Phasellus laoreet massa id justo mattis pharetra. Fusce suscipit ligula
-											vel quam viverra sit amet mollis tortor congue. Sed quis mauris sit amet
-											magna accumsan tristique. Curabitur leo nibh, rutrum eu malesuada in,
-											tristique at erat. Curabitur leo nibh, rutrum eu malesuada in, tristique
-											at erat lorem ipsum dolor sit amet lorem ipsum sed consequat magna
-											tempus veroeros lorem sed tempus aliquam lorem ipsum veroeros consequat
-											magna tempus.</p> -->
+											<a href="#" class="image featured"><img src="#" alt="" /></a>
+											<h3></h3>
+											
 											<ul class="actions">
-												<li><a href="#" class="button icon solid fa-file">Continue Reading</a></li>
+												
 											</ul>
 										</article>
 
@@ -195,48 +178,7 @@
 										</section>
 										<?php }?>
 									<!-- Highlights -->
-										<section>
-											<ul class="divided">
-												<li>
-
-<!--
-													 Highlight 
-														<article class="box highlight">
-															<header>
-																<h3><a href="#">Principal stuff</a></h3>
-															</header>
-															<a href="#" class="image left"><img src="images/pic06.jpg" alt="" /></a>
-															<p>Phasellus sed laoreet massa id justo mattis pharetra. Fusce suscipit ligula vel quam
-															viverra sit amet mollis tortor congue magna lorem ipsum dolor et quisque ut odio facilisis
-															convallis. Etiam non nunc vel est suscipit convallis non id orci. Ut interdum tempus
-															facilisis convallis. Etiam non nunc vel est suscipit convallis non id orci.</p>
-															<ul class="actions">
-																<li><a href="#" class="button icon solid fa-file">Learn More</a></li>
-															</ul>
-														</article>
--->
-
-												</li>
-												<li>
-
-													<!-- Highlight -->
-														<!-- <article class="box highlight">
-															<header>
-																<h3><a href="#">Something of less note</a></h3>
-															</header>
-															<a href="#" class="image left"><img src="images/pic07.jpg" alt="" /></a>
-															<p>Phasellus sed laoreet massa id justo mattis pharetra. Fusce suscipit ligula vel quam
-															viverra sit amet mollis tortor congue magna lorem ipsum dolor et quisque ut odio facilisis
-															convallis. Etiam non nunc vel est suscipit convallis non id orci. Ut interdum tempus
-															facilisis convallis. Etiam non nunc vel est suscipit convallis non id orci.</p>
-															<ul class="actions">
-																<li><a href="#" class="button icon solid fa-file">Learn More</a></li>
-															</ul>
-														</article> -->
-
-												</li>
-											</ul>
-										</section>
+										
 									
 								</div>
 
@@ -275,16 +217,14 @@
 							</div>
 							<div class="col-6 col-12-medium">
 								<section>
-									<p>Erat lorem ipsum veroeros consequat magna tempus lorem ipsum consequat Phaselamet
-									mollis tortor congue. Sed quis mauris sit amet magna accumsan tristique. Curabitur
-									leo nibh, rutrum eu malesuada.</p>
+									<p>HI</p>
 									<div class="row">
 										<div class="col-6 col-12-small">
 											<ul class="icons">
 												<li class="icon solid fa-home">
-													1234 Somewhere Road<br />
-													Mumbai, MH 464-223<br />
-													India
+												786, Link road<br />
+												Mumbai, MH 464-223<br />
+												India
 												</li>
 												<li class="icon solid fa-phone">
 													(022) 213-0831
@@ -312,11 +252,7 @@
 							</div>
 						</div>
 					</div>
-					<div id="copyright" class="container">
-						<ul class="links">
-						
-						</ul>
-					</div>
+					
 				</section>
 
 		</div>
