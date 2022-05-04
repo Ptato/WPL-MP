@@ -15,7 +15,17 @@ if(!$conn){
 $stmt=$conn->prepare("INSERT INTO admission_form(name,fname,mname,address,dob,email,bg) VALUES (?,?,?,?,?,?,?)");
 $stmt->bind_param("sssssss",$name,$fname,$mname,$address,$dob,$email,$bg);
 $stmt->execute();
-echo "SUCCESSFULL";
+function function_alert($message) {
+       
+    echo "<script>alert('$message');</script>";
+}
+function backtohome() {
+       
+    echo "<script>location.href='index.php';</script>";
+}
+
+function_alert("Your submission has been recorded");
+backtohome();
  
 																				
 																				

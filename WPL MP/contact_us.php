@@ -11,5 +11,16 @@ if(!$conn){
 $stmt=$conn->prepare("INSERT INTO contact_us(Name,email,Content) VALUES (?,?,?)");
 $stmt->bind_param("sss",$name,$email,$message);
 $stmt->execute();
-echo "SUCCESSFULL";																				
+function function_alert($message) {
+       
+    echo "<script>alert('$message');</script>";
+}
+function backtohome() {
+       
+    echo "<script>location.href='index.php';</script>";
+}
+
+function_alert("Your submission has been recorded");
+backtohome();
+																			
 ?>

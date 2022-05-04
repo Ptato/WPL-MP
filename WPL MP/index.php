@@ -21,7 +21,6 @@
 						<!-- Nav -->
 							<nav id="nav">
 								<ul>
-									<li><a class="icon solid fa-home" href="index.php"><span>Home</span></a></li>
 									<li>
 										<a href="#" class="icon fa-chart-bar"><span>About us</span></a>
 										<ul>
@@ -29,19 +28,16 @@
 											<li><a href="#">Academics</a></li>
 											<li><a href="#">Alumni</a></li>
 											<li>
-												<a href="#">Our Staff</a>
-												<ul>
-													<li><a href="#">Pre-Primary</a></li>
-													<li><a href="#">Primary</a></li>
-													<li><a href="#">Secondary</a></li>
-												</ul>
+												<a href="staff.php">Our Staff</a>
+												
 											</li>
-											<li><a href="#">Gallery</a></li>
+											
 										</ul>
 									</li>
-									<li><a class="icon solid fa-cog" href="enrollment.html"><span>Enrollment</span></a></li>
-									<li><a class="icon solid fa-retweet" href="right-sidebar.html"><span>Student Life</span></a></li>
+									<li><a class="icon solid fa-address-book" href="enrollment.html"><span>Enrollment</span></a></li>
+									<li><a class="icon solid fa-child" href="right-sidebar.html"><span>Student Life</span></a></li>
 									<li><a class="icon solid fa-sitemap" href="#footer"><span>Contact us</span></a></li>
+									<li><a class="icon solid fa-id-badge" href="login.php"><span>Admin</span></a></li>
 								</ul>
 							</nav>
 
